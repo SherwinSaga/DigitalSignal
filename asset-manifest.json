@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/digitalsignal/static/css/main.f855e6bc.css",
+    "main.js": "/digitalsignal/static/js/main.a971756b.js",
+    "static/js/453.25c6efd4.chunk.js": "/digitalsignal/static/js/453.25c6efd4.chunk.js",
+    "index.html": "/digitalsignal/index.html",
+    "main.f855e6bc.css.map": "/digitalsignal/static/css/main.f855e6bc.css.map",
+    "main.a971756b.js.map": "/digitalsignal/static/js/main.a971756b.js.map",
+    "453.25c6efd4.chunk.js.map": "/digitalsignal/static/js/453.25c6efd4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.a971756b.js"
+  ]
+}
